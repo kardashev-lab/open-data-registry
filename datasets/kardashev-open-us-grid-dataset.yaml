@@ -13,7 +13,7 @@ Description: |
   restricted third-party feeds is excluded from the open release.
 
   Live API and tools: https://data.kardashevlabs.org
-Documentation: https://github.com/kardashev-lab/kardashev-data
+Documentation: https://github.com/kardashev-lab/kardashev-data/blob/main/docs/open-data-dataset.md
 Contact: ashutosh@kardashevlabs.org
 ManagedBy: "[Kardashev Labs](https://kardashevlabs.org)"
 UpdateFrequency: Daily to monthly, depending on source cadence
